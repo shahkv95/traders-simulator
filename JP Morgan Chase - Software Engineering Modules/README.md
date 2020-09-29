@@ -12,4 +12,4 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## For any queries/doubts:
 
-:envelope: chandrikadeb7@gmail.com :thumbsup:
+:envelope: kushlinkedin@gmail.com :thumbsup:
