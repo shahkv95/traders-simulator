@@ -1,0 +1,51 @@
+From 2c70f890d3db37e95bb20682890b2ec0d67b6b65 Mon Sep 17 00:00:00 2001
+From: Kush Shah <kushshah253@gmail.com>
+Date: Thu, 28 May 2020 00:24:53 +0530
+Subject: [PATCH] Create Patch File 2
+
+---
+ client_test.py | 22 +++++++++++++++++++++-
+ 1 file changed, 21 insertions(+), 1 deletion(-)
+
+diff --git a/client_test.py b/client_test.py
+index d4b0416..c3809f2 100644
+--- a/client_test.py
++++ b/client_test.py
+@@ -1,5 +1,5 @@
+ import unittest
+-from client3 import getDataPoint
++from client3 import getDataPoint, getRatio
+ 
+ class ClientTest(unittest.TestCase):
+   def test_getDataPoint_calculatePrice(self):
+@@ -23,7 +23,27 @@ class ClientTest(unittest.TestCase):
+       
+ 
+   """ ------------ Add more unit tests ------------ """
++  def test_getRatio_exactlyOne(self):
++    price_a, price_b = 100.14, 100.14
++    self.assertEqual(getRatio(price_a, price_b), 1)
++    
++  def test_getRatio_priceB_equalsZero(self):
++    price_a, price_b= 142.15, 0
++    self.assertIsNone(getRatio(price_a, price_b))
+ 
++  def test_getRatio_priceA_equalsZero(self):
++    price_a, price_b = 0, 121.68
++    self.assertEqual(getRatio(price_a, price_b), 0)
++ 
++  def test_getRatio_moreThan1(self):
++    price_a, price_b = 152.12, 152.11
++    self.assertGreater(getRatio(price_a, price_b), 1)
++
++  def test_getRatio_LessThan1(self):
++    price_a, price_b = 151.12, 151.13
++    self.assertLess(getRatio(price_a, price_b), 1)
++
++  
+ 
+ 
+ if __name__ == '__main__':
+-- 
+2.24.0.windows.2
+
