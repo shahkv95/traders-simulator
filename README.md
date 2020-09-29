@@ -1,2 +1,15 @@
-# JP-Morgan-Chase-Co-Software-Engineering-Virtual-Experience
-This repository contains certain works covered under the Software Engineering Virtual Experience Program. You can look at the work for reference and feel free to ask any question of you have or find any issues during the same. 
+# JPMorgan-Chase-Virtual-Internship
+
+This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
+
+## Website Link:
+
+[https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
+
+## My Certificate of Completion 
+
+![](https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship/blob/master/certificate.png)
+
+## For any queries/doubts:
+
+:envelope: kushlinkedin@gmail.com :thumbsup:
