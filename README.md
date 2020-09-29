@@ -35,7 +35,7 @@ I gained an understanding of the user requirements and then build something that
 [https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
 <hr>
 
-</h3>My Certificate of Completion</h3> 
+<h3>My Certificate of Completion</h3> 
 <br>
 
 ![](https://github.com/shahkv95/JP-Morgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/master/JP%20Morgan%20Chase%20-%20Software%20Engineering%20Modules/certificate.png)
