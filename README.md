@@ -32,7 +32,7 @@ I gained an understanding of the user requirements and then build something that
 
 <h3>Website Link:</h3>
 
-![](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
+![https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
 <hr>
 
 </h3>My Certificate of Completion</h3> 
