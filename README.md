@@ -29,7 +29,10 @@ The visualization of charts and data analysis their trader’s see is all built 
 
 I gained an understanding of the user requirements and then build something that meets those requirements.
 <hr>
-[<h3>Website Link:</h3>](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
+
+<h3>Website Link:</h3>
+
+![](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
 <hr>
 
 </h3>My Certificate of Completion</h3> 
