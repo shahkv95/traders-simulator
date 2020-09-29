@@ -40,7 +40,7 @@ I gained an understanding of the user requirements and then build something that
 
 ![](https://github.com/shahkv95/JP-Morgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/master/JP%20Morgan%20Chase%20-%20Software%20Engineering%20Modules/certificate.png)
 <hr>
-</h3>For any queries/doubts:</h3>
+<h3>For any queries/doubts:</h3>
 
 :envelope: kushlinkedin@gmail.com :thumbsup:
 <hr>
