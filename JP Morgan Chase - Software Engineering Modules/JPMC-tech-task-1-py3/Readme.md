@@ -33,12 +33,12 @@
 <h2 id="installation" >Set up / Installation</h2>
 
 <p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v6.pdf">follow the setup here</a></p>
-<p><b>Note:</b>This is the Python 3 version of the JPM 1 exercise. The Python 2.7 version is in <a href="https://github.com/insidesherpa/JPMC-tech-task-1">this other repo</a></p>
+
 
 <h2>How to Run</h2>
 To start the server, run
 
-	python server3.py
+	python server.py
 
 this will create random market called 'test.csv' in your working directory if one does not already exist.
 
@@ -50,7 +50,7 @@ If you don't have pip yet, you can install it from: https://pip.pypa.io/en/stabl
 
 To start the example client, run:
 
-	python client3.py
+	python client.py
 
 To unit test the example client, run:
 	python client_test.py
