@@ -21,7 +21,7 @@ JPMorgan Chase has traders in all the major financial centers and creates a mark
 + Interest rates
 + Securitized Products
 
-For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
+For this project, a trader from the equities team (publicly listed company stocks) had requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
 
 In order to do this, I have set up my system so I can interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
 
