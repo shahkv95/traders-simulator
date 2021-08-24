@@ -1,4 +1,4 @@
-<h2>JPMorgan-Chase-Virtual-Internship</h2>
+<h2>JPMorgan Chase Virtual Internship</h2>
 
 <br>
 <p align="center">
