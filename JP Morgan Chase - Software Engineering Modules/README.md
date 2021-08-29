@@ -9,6 +9,7 @@
 <hr>
 
 
+
 This repository contains the work that could potentially assist with some development of an alternative way to visualize and analyze share price data for their traders – this will alert them of potential trading opportunities.
 
 JPMorgan Chase has traders in all the major financial centers and creates a marketplace for asset classes around the globe for our investor clients. Trading teams are organized by asset class:
